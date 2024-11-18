@@ -7,4 +7,3 @@ Topics covered in the course:
 - Graphs 
 - Minimum spanning tree and Shortest path in Graph
 - Dynamic Programming
-- 
